@@ -30,11 +30,11 @@ The registry search for interventional Phase 3 drug-therapy trials with overall 
 
 ### Design detail for the first five
 
-- **NCT07527078** — Randomised, open-label, parallel-assignment, treatment-purpose, singlemouth masking; GZR33 injection vs insulin degludec (Tresiba®) active comparator; secondary outcome is fasting plasma glucose; sponsored by Gan & Lee Pharmaceuticals (industry), 350 enrolled.
-- **NCT07664553** — Randomised, double-blind (quadruple: participant, care provider, investigator, outcomes assessor), parallel-assignment, treatment-purpose; three arms — elecoglipron dose level 1, elecoglipron dose level 2, and placebo — with a primary endpoint of change from baseline in HbA1c at Week 40; sponsored by AstraZeneca (industry), 600 enrolled.
-- **NCT06647745** — Randomised, quadruple-blind, parallel-assignment, treatment-purpose; active-controlled combination of THP-00101 (dapagliflozin 10 mg) and THP-00102 (telmisartan 80 mg) versus monotherapies with a nested THP-00103 arm, in T2DM with essential hypertension; primary endpoints are change in HbA1c and mean sitting systolic blood pressure at Week 12; sponsored by THPharm Corp. (industry), 221 enrolled.
-- **NCT05633810** — Randomised, quadruple-blind, factorial (2x2) design with anti-thrombotic and anti-inflammatory arms; colchicine and non-enteric-coated aspirin each at 0.5 mg/40 mg twice daily versus placebo in a 4x4 supply of study arms; primary endpoint is the composite of cardiovascular death, resuscitated cardiac arrest, non-fatal MI, non-fatal stroke, or urgent hospitalization for angina requiring revascularisation over up to 60 months; 10,000 planned.
-- **NCT05569772** — Randomised, triple-blind, parallel-assignment, prevention-purpose; semaglutide (up-titrated to 1 mg once weekly) vs matching placebo SC once weekly in women with prior gestational diabetes and postpartum glucose intolerance, with a planned 3-year intervention window and a 3-year follow-up for incident T2DM; 252 planned.
+- **NCT07527078** — Randomised, open-label, parallel-assignment, treatment-purpose, masking: NONE (single-arm); GZR33 injection vs insulin degludec (Tresiba®) open-label active comparator; secondary outcome is fasting plasma glucose; sponsored by Gan & Lee Pharmaceuticals (industry), 350 enrolled (estimated).
+- **NCT07664553** — Randomised, double-blind (quadruple: participant, care provider, investigator, outcomes assessor), parallel-assignment, treatment-purpose; three arms — elecoglipron dose level 1, elecoglipron dose level 2, and placebo — with a primary endpoint of change from baseline in HbA1c at Week 40; sponsored by AstraZeneca (industry), 600 enrolled (estimated).
+- **NCT06647745** — Randomised, quadruple-blind, parallel-assignment, treatment-purpose; active-controlled combination of THP-00101 (dapagliflozin 10 mg) and THP-00102 (telmisartan 80 mg) versus monotherapies with a nested THP-00103 arm, in T2DM with essential hypertension; primary endpoints are change in HbA1c and mean sitting systolic blood pressure at Week 12; sponsored by THPharm Corp. (industry), 221 enrolled (estimated).
+- **NCT05633810** — Randomised, quadruple-blind, factorial (2x2 x2 design) design with anti-thrombotic and anti-inflammatory arms; colchicine and non-enteric-coated aspirin each at 0.5 mg/40 mg twice daily versus placebo in a 4x4 supply of study arms; primary endpoint is the composite of cardiovascular death, resuscitated cardiac arrest, non-fatal MI, non-fatal stroke, or urgent hospitalization for angina requiring revascularisation over up to 60 months; 10,000 planned (estimated).
+- **NCT05569772** — Randomised, triple-blind, parallel-assignment, prevention-purpose; semaglutide (up-titrated to 1 mg once weekly) vs matching placebo SC once weekly in women with prior gestational diabetes and postpartum glucose intolerance, with a planned 3-year intervention window and a 3-year follow-up for incident T2DM; 252 planned (estimated).
 
 ## SUNSHINE Reference Case — AstraZeneca Saxagliptin (NCT01608724)
 
@@ -44,12 +44,11 @@ The PI's reference case, pulled in full from the registry, is registered as foll
 - **Sponsor (as listed by the registry):** **AstraZeneca** (lead sponsor, class: INDUSTRY)
 - **Phase:** **Phase 4** (the study type is interventional, single-group cohort)
 
-**Study design.** SUNSHINE is a **multicenter, single-arm (single equidistant) cohort study** — a non-randomised, open-label study — evaluating the efficacy and safety of **saxagliptin (oral 5 mg once daily) for 24 weeks** in patients with type 2 diabetes mellitus, who are treatment-naive or inadequately controlled on metformin alone. The study is registered as a **non-marketed-type interventional cohort study** with:
+**Study design.** SUNSHINE is a **multicenter, single-arm (single equidistant) cohort study** — a non-randomised, open-label study — evaluating the efficacy and safety of **saxagliptin (oral 5 mg once daily) for 24 weeks** in patients with type 2 diabetes mellitus, who are treatment-naive or inadequately controlled on metformin alone. The study is registered as an interventional study with:
 
-- Side: non-randomised assignment; single-group intervention model; treatment purpose; open-label masking;
-- Primary purpose: treatment; intervention of drug: Saxagliptin (Onglyza), 5 mg oral once daily for 24 weeks;
-- Enrollment: 2165 (ACTUAL); conducted at 92 study sites in China;
-- Design: **single-arm, non-randomised, open-label — specifically, a single equidistant phase 4 cohort study**, completed May 2014 (primary completion 2014-05-05 actual);
-- Findings column: the registry results extrapolation based on the enrolled population showed mean age 52.3 years, and the primary endpoint reported was absolute change from baseline in HbA1c at weeks 6, 12, and 24 of −1.19%, −1.59%, and −1.61%, with 1,210 evaluable subjects in the per-protocol set and 1,361 patients actually treated;
+- Side: non-randomised assignment; single-group intervention model; treatment purpose; open-label masking (masking: NONE);
+- Primary purpose: treatment; intervention: drug: Saxagliptin (Onglyza), 5 mg oral once daily for 24 weeks;
+- Enrollment: 2165 (ACTUAL); conducted at 92 study sites in China; completion date: May 2014 (ACTUAL);
+- Design: **single-arm, non-randomised, open-label — specifically, a single equidistant phase 4 cohort study** (completion May 2014, status verified 2015-12; the registry record lists primary completion May 2014 as ACTUAL);
 
-In short, SUNSHINE is a **single-group, open-label, non-randomised Phase 4 cohort study of 5 mg saxagliptin once daily for 24 weeks** in 2,165 actual patients — a logs-and-points reference case preferred because it shows how an open-label Phase 4 refers on to the primary HbA1c endpoint rather than a randomised power-comparison design.
+In short, SUNSHINE is a **single-group, open-label, non-randomised phase 4 cohort study of oral saxagliptin 5 mg once daily for 24 weeks** in 2,165 actual patients — a regime of open-label Phase 4 registration that refers on to the primary HbA1c endpoint rather than a randomised power-comparison design.
