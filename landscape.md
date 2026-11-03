@@ -6,9 +6,9 @@
 
 ## Overview
 
-The registry currently returns **1,650** studies matching an active type 2 diabetes pipeline under those three statuses. The pipeline skews toward observation and post-approval work: only 1,311 of the 1,650 studies carry a defined phase (1,650 minus the 339 that the registry lists with no phase assigned), while 1,245 studies are sponsored by organizations other than industry. The breakdown below reports each category exactly as the registry returns it.
+The registry currently returns **1,650** studies matching an active type 2 diabetes pipeline under those three statuses. The pipeline skews toward non-industry sponsorship: non-industry sponsors account for 1,245 of the 1,650 records, versus 350 industry-sponsored studies (roughly a 3.6:1 ratio). Phase assignments are largely absent — 798 studies carry an "N/A" phase designation and 372 studies are classified as "Unknown," leaving 480 of the 1,650 studies with at least one numbered phase designation (Phase 1, 2, 3, 4, or Early Phase 1). Phase and status buckets do not sum to 1,650 because studies with combined phase designations (e.g., Phase 1/Phase 2) are counted in each phase bucket.
 
-## Breakdown 1 — Studies by Phase (active T2D pipeline, all statuses)
+## Breakdown 1 — Studies by Phase (active T2D pipeline)
 
 | Phase | Count |
 |---|---|
@@ -20,7 +20,7 @@ The registry currently returns **1,650** studies matching an active type 2 diabe
 | Phase 3 | 143 |
 | Phase 4 | 118 |
 
-Combined, the numbered phases (Phase 1–4) sum to 578 studies; the remaining 1,072 records carry "NA" (no phase) or "Unknown." Across the recruiting cohort, Phase 3 is the largest defined phase bucket of 143 studies.
+Number of numbered phase memberships (20+97+140+143+118) is 518 across all 1,650 studies; 480 distinct studies carry at least one numbered phase, which means 38 studies carry combined phase designations (e.g., Phase 1/Phase 2) that are counted in more than one bucket.
 
 ## Breakdown 2 — Studies by Overall Status (active T2D pipeline)
 
@@ -30,7 +30,7 @@ Combined, the numbered phases (Phase 1–4) sum to 578 studies; the remaining 1,
 | Not yet recruiting | 432 |
 | Active, not recruiting | 342 |
 
-Recruiting studies dominate the active pipeline — over half of the 1,650Statuses.
+Recruiting studies represent over half of the active pipeline (876 of 1,650).
 
 ## Breakdown 3 — Studies by Sponsor Type (active T2D pipeline)
 
@@ -43,31 +43,33 @@ Recruiting studies dominate the active pipeline — over half of the 1,650Status
 | Other networks | 6 |
 | Federal (US) | 5 |
 
-Non-industry ("Other") sponsors account for roughly three-quarters of the active pipeline. Industry aspirin...actually: 350 industry-sponsored studies versus 1,245 non-industry, a ratio of roughly 1:3.6.
+The sponsor-type buckets sum exactly to 1,650. Non-industry sponsors account for roughly three-quarters of the active pipeline.
 
 ## Recruiting Phase 3 Drug Trials — Five Representative Trials
 
-The first five recruiting, interventional, drug-intervention Phase 3 trials the search returns:
+The first five recruiting, interventional, drug-intervention Phase 3 trials the search returns, in search-order:
 
-| NCT ID | Sponsor | Enrollment |
-|---|---|---|
-| NCT07527078 | Gan & Lee Pharmaceuticals | 350 (estimated) |
-| NCT07664553 | AstraZeneca | 600 (estimated) |
-| NCT06647745 | THPharm Corp. | 221 (estimated) |
-| NCT05633810 | Montreal Heart Institute | 10,000 (estimated) |
-| NCT05569772 | Universitaire Ziekenhuizen KU Leuven | 252 (estimated) |
+| NCT ID | Sponsor | Phase | Enrollment |
+|---|---|---|---|
+| NCT07527078 | Gan & Lee Pharmaceuticals. | Phase 3 | 350 (estimated) |
+| NCT07664553 | AstraZeneca | Phase 3 | 600 (estimated) |
+| NCT06647745 | THPharm Corp. | Phase 3 | 221 (estimated) |
+| NCT05633810 | Montreal Heart Institute | Phase 3 | 10,000 (estimated) |
+| NCT05569772 | Universitaire Ziekenhuizen KU Leuven | Phase 3 | 252 (estimated) |
 
-Sponsor classes within this five-trial window: three industry sponsor's (Gan & Lee, AstraZeneca, THPharm), one non-industry/hospital sponsor (Montreal Heart Institute), and one non-industry academic sponsor (KU Leuven).
+Enrollment figures are the registry's stated estimates. Sponsor classes within this five-trial window: three industry-sponsored trials (Gan & Lee, AstraZeneca, THPharm) and two non-industry trials (Montreal Heart Institute; Universitaire Ziekenhuizen KU Leuven).
 
 ## SUNSHINE — AstraZeneca Saxagliptin Reference Case
 
-**NCT01608724** — *A Multicenter, Single Arm, Cohort Study to Evaluate the Efficacy and Safety of Saxagliptin 5mg, Once Daily for 24 Weeks, in Patients With Type 2 Diabetes Mellitus* (acronym: SUNSHINE; sponsor: AstraZeneca; completed Jan 2012 – May 2014).
+**NCT01608724** — *A Multicenter, Single Arm, Cohort Study to Evaluate the Efficacy and Safety of Saxagliptin 5mg, Once Daily for 24 Weeks, in Patients With Type 2 Diabetes Mellitus* (acronym: SUNSHINE; sponsor: AstraZeneca; registry status: COMPLETED; sponsored Jan 2012 – actual primary completion May 2014).
 
-- **Sponsor:** AstraZeneca (Industry class; study director per protocol: Simon Fisher, AstraZeneca; point of contact Anya Huang, Astrazeneca Investment (China) Co., Ltd.).
+- **Sponsor:** AstraZeneca (INDUSTRY class). Study director per overall official record: Simon Fisher, AstraZeneca. Registry results point of contact: Anya Huang, Brand Physician, Astrazeneca Investment (China) Co., Ltd.
 - **Phase:** Phase 4.
-- **Study design:** InterVENTIONAL, single-arm (one open-label experimental arm), non-randomized allocation, no masking; the search criterion is carried over from the recruiting pipeline analysis; here the registry lists it as Phase 4, not recruiting — included as the PI's reference case. Enrollment: 2,165 patients (actual).
-- **Intervention:** Saxagliptin (Onglyza), oral 5 mg once daily for 24 weeks, given to 1,361 patients who received at least one dose; single open-label arm ("Open label" group).
+- **Study design:** Interventional, single-arm, non-randomized allocation, no masking (open label); single experimental arm (saxagliptin) versus no comparator. Enrollment: 2,165 patients (actual).
+- **Intervention:** Saxagliptin (Onglyza), oral 5 mg once daily for 24 weeks. 1,361 patients received at least one dose; the per-protocol analysis set comprised 1,210 patients.
 - **Population:** Patients with type 2 diabetes mellitus who were treatment naive or inadequately controlled on metformin alone (HbA1c > 7.5% and ≤ 11.0%) across 92 study sites in China.
 - **Primary outcome:** absolute change from baseline in HbA1c at weeks 6, 12, and 24.
-- **Key results as posted:** HbA1c change from baseline — −1.19% at Week 6, −1.59% at Week 12, −1.61% at Week 24 (per-protocol analysis set, n=1,210); proportion of patients achieving HbA1c < 7% — 25.4% (Week 6), 45.6% (Week 12), 44.1% (Week 24). The registry lists this study with results posted (results first posted 2 Feb 2016).
-- **Caveats noted in the registry:** because the design was single-arm, potential placebo effect could not be adjusted in any efficacy analyses.
+- **Key results as posted by AstraZeneca:** mean change in HbA1c from baseline — −1.19% at Week 6 (SE 0.033), −1.59% at Week 12 (SE 0.039), and −1.61% at Week 24 (SE 0.040) on the per-protocol analysis set (n=1,210). The proportion of patients achieving HbA1c < 7% was 25.4% at Week 6, 45.6% at Week 12, and 44.1% at Week 24.
+- **Caveat from the registry:** because the design was single arm, potential placebo effect could not be adjusted in any efficacy analyses.
+
+**Why this matters for the renewal:** SUNSHINE is a post-approval (Phase 4) DPP-4 inhibitor cohort study of 2,165 patients with saxagliptin 5 mg daily for 24 weeks, run across 92 Chinese sites. It reported a mean HbA1c reduction of −1.19% to −1.61% and an HbA1c < 7% response in roughly half of patients at the end of 24 weeks (44.1%), with results posted by AstraZeneca. The absence of randomization and masking in SUNSHINE is the registry's own caveat; it remains a useful historical reference point for DPP-4 inhibition in the post-approval era, but it is not a Phase 3 efficacy package.
